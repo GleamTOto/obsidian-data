@@ -1,0 +1,31 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "_templates/x_Book Front Matter Snippet.md": "fde2425ea7420b657ed9ee8a5a7153bae21a16630b16868416917ac3984f7eef",
+    "_templates/5_BuJo - Daily Log.md": "e8b9f0a9c9519c8c94e850055dde6be0d27aa547f7c5aec2e27b9344057f40ea",
+    "_templates/5_Meeting Notes Template.md": "5be296746eb197864e14ffe8b87d45797317609cc9e54071e7732e6486a5554c",
+    "__templates/Zettelkasten.md": "850e9e6d6654eb85a9c1d170c38d8729000a85336c1c608e3f110e75bbd1a145",
+    "__templates/Template Map of Content (MOC).md": "0ec8bbadb17d0ecb6f221b374ab8dd7825693ff67d6cb237e8f1290a65e3a32d",
+    "__templates/Daily Note.md": "3318a6ef6d25dc05fa7cd14fa2afafe90538bb684b66251085ae452410509593",
+    "__templates/Template Projects Frontend.md": "c17541d1ad8e11ea753f538d363fbf222d174f42fa69ccbcd78d0edef1ce9927",
+    "__templates/Frontend Resources.md": "a8ba40f91f8eee8d19d7e34e8d1b425bdca9d86cc73a128a9a1c98b3d1bd9a0f",
+    "00 MOCs/MOC Principal del Roadmap Frontend.md": "e188e585f3c7e5db63febc3bdf81a52a5fdba567ba111f460ed0c8dbd92fe739",
+    "Daily Note.md": "610045782591b67559fb707c8e32887b87cbe7fbf1b534b938d567ae143132e9",
+    "00 MOCs/MOC CSS.md": "9109699273dafa87809610a796c095b5e49b64af9b1f5eb7566988d677f038a2",
+    "03 CSS/Flexbox and Grid.md": "ed6288c3d057bf9d6033b851a18c2bf69fee01c78311d10c940b6c25bdb54f83",
+    "00 MOCs/MOC Javascript.md": "28341f22c31befcc4c7025ccc2df12e37a3a1700d142be56ef431c48f364af52",
+    "04 JavaScript/Async & Await.md": "6ce01f9c00ce101b119e3a4393130054ff781856310875d2c47a835cd8e6e157",
+    "Untitled.md": "b407ebb378981e36f5a858e734c4f8b869b1a8a3fb1e1879096fba70324ea781",
+    "DOM Introduction.md": "bd75e8163d4b1ed2cc405d3ef0961f21e4e0ddd49845b4b98dfd256613f18f22",
+    "Learn Ansible.md": "095bf4af2bc23f3061a76a641848e37df7d8911193cd6a581f802aee02139751",
+    "Clase Piano 9 Marzo.md": "b88eee7102f6817d78c06db5f718338610385208d62e2e1aef1cd544cf8cc7e9",
+    "11 Projects/Proyecto Negrito.md": "ac012b1d16ff593238b3f6e58a9869896fcf57f5023378201a0baec40d6b5e28"
+  }
+}

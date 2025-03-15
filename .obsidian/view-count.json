@@ -1,0 +1,707 @@
+{
+  "items": [
+    {
+      "path": "_templates/5_BuJo - Daily Log.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1741104456675
+        },
+        {
+          "timestampMillis": 1741104932039
+        },
+        {
+          "timestampMillis": 1741114729460
+        },
+        {
+          "timestampMillis": 1741140814465
+        }
+      ]
+    },
+    {
+      "path": "_templates/4_Quote Template.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1741104464182
+        }
+      ]
+    },
+    {
+      "path": "_templates/5_Structure Template.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1741104493217
+        },
+        {
+          "timestampMillis": 1741104947820
+        },
+        {
+          "timestampMillis": 1741104964641
+        },
+        {
+          "timestampMillis": 1741104986578
+        },
+        {
+          "timestampMillis": 1741114811767
+        },
+        {
+          "timestampMillis": 1741140595021
+        }
+      ]
+    },
+    {
+      "path": "_templates/x_Book Front Matter Snippet.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1741104497533
+        }
+      ]
+    },
+    {
+      "path": "_templates/4_Book Template.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1741104916333
+        }
+      ]
+    },
+    {
+      "path": "_templates/4_Person Template.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1741104917567
+        },
+        {
+          "timestampMillis": 1741140638694
+        },
+        {
+          "timestampMillis": 1741187854270
+        }
+      ]
+    },
+    {
+      "path": "_templates/3_Note Template.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1741104924623
+        },
+        {
+          "timestampMillis": 1741105013060
+        },
+        {
+          "timestampMillis": 1741105045747
+        },
+        {
+          "timestampMillis": 1741141965157
+        },
+        {
+          "timestampMillis": 1741272892236
+        }
+      ]
+    },
+    {
+      "path": "_templates/5_Meeting Notes Template.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1741104928883
+        },
+        {
+          "timestampMillis": 1741115170131
+        },
+        {
+          "timestampMillis": 1741115265025
+        },
+        {
+          "timestampMillis": 1741115648110
+        },
+        {
+          "timestampMillis": 1741115648703
+        },
+        {
+          "timestampMillis": 1741115651099
+        },
+        {
+          "timestampMillis": 1741115660206
+        }
+      ]
+    },
+    {
+      "path": "_templates/3_Prompt Template.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1741105087906
+        }
+      ]
+    },
+    {
+      "path": "_templates/4_Term Template.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1741105106224
+        }
+      ]
+    },
+    {
+      "path": "_templates/6_E-book Template.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1741140594120
+        }
+      ]
+    },
+    {
+      "path": "_templates/x_Front Matter Snippet.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1741140650127
+        },
+        {
+          "timestampMillis": 1741140809311
+        }
+      ]
+    },
+    {
+      "path": "__templates/Zettelkasten.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1741141982520
+        },
+        {
+          "timestampMillis": 1741142071978
+        },
+        {
+          "timestampMillis": 1741142382718
+        },
+        {
+          "timestampMillis": 1741143090015
+        }
+      ]
+    },
+    {
+      "path": "__templates/Template Map of Content (MOC).md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1741142385177
+        },
+        {
+          "timestampMillis": 1741142522107
+        },
+        {
+          "timestampMillis": 1741143061613
+        },
+        {
+          "timestampMillis": 1741143213135
+        }
+      ]
+    },
+    {
+      "path": "__templates/Daily Note.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1741142487313
+        },
+        {
+          "timestampMillis": 1741142487487
+        },
+        {
+          "timestampMillis": 1741142530163
+        },
+        {
+          "timestampMillis": 1741142531525
+        },
+        {
+          "timestampMillis": 1741142594025
+        },
+        {
+          "timestampMillis": 1741143065499
+        },
+        {
+          "timestampMillis": 1741238880735
+        }
+      ]
+    },
+    {
+      "path": "__templates/Template Projects Frontend.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1741142581889
+        },
+        {
+          "timestampMillis": 1741142711696
+        },
+        {
+          "timestampMillis": 1741142713500
+        },
+        {
+          "timestampMillis": 1741142743058
+        },
+        {
+          "timestampMillis": 1741143145050
+        },
+        {
+          "timestampMillis": 1741143175157
+        }
+      ]
+    },
+    {
+      "path": "__templates/Frontend Resources.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1741142968277
+        },
+        {
+          "timestampMillis": 1741143064602
+        },
+        {
+          "timestampMillis": 1741143191399
+        }
+      ]
+    },
+    {
+      "path": "00 MOCs/MOC Principal del Roadmap Frontend.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1741143254398
+        },
+        {
+          "timestampMillis": 1741143316852
+        },
+        {
+          "timestampMillis": 1741143508737
+        },
+        {
+          "timestampMillis": 1741144060258
+        },
+        {
+          "timestampMillis": 1741144675706
+        },
+        {
+          "timestampMillis": 1741144871757
+        },
+        {
+          "timestampMillis": 1741145492930
+        },
+        {
+          "timestampMillis": 1741145728291
+        }
+      ]
+    },
+    {
+      "path": "03 CSS/Flexbox and Grid.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 16,
+      "openLogs": [
+        {
+          "timestampMillis": 1741143688939
+        },
+        {
+          "timestampMillis": 1741143723084
+        },
+        {
+          "timestampMillis": 1741143867691
+        },
+        {
+          "timestampMillis": 1741143939793
+        },
+        {
+          "timestampMillis": 1741144204200
+        },
+        {
+          "timestampMillis": 1741144397590
+        },
+        {
+          "timestampMillis": 1741144444889
+        },
+        {
+          "timestampMillis": 1741144453524
+        },
+        {
+          "timestampMillis": 1741144470311
+        },
+        {
+          "timestampMillis": 1741145096656
+        },
+        {
+          "timestampMillis": 1741145123607
+        },
+        {
+          "timestampMillis": 1741145128755
+        },
+        {
+          "timestampMillis": 1741145141543
+        },
+        {
+          "timestampMillis": 1741145171335
+        },
+        {
+          "timestampMillis": 1741145735903
+        },
+        {
+          "timestampMillis": 1741238893361
+        }
+      ]
+    },
+    {
+      "path": "Daily Note.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 10,
+      "openLogs": [
+        {
+          "timestampMillis": 1741143989635
+        },
+        {
+          "timestampMillis": 1741144063853
+        },
+        {
+          "timestampMillis": 1741145220783
+        },
+        {
+          "timestampMillis": 1741145401583
+        },
+        {
+          "timestampMillis": 1741146283149
+        },
+        {
+          "timestampMillis": 1741187803827
+        },
+        {
+          "timestampMillis": 1741188892712
+        },
+        {
+          "timestampMillis": 1741189140348
+        },
+        {
+          "timestampMillis": 1741189149510
+        },
+        {
+          "timestampMillis": 1741631374569
+        }
+      ]
+    },
+    {
+      "path": "00 MOCs/MOC CSS.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1741144804753
+        },
+        {
+          "timestampMillis": 1741144804882
+        },
+        {
+          "timestampMillis": 1741144863517
+        },
+        {
+          "timestampMillis": 1741144873914
+        },
+        {
+          "timestampMillis": 1741144885568
+        },
+        {
+          "timestampMillis": 1741145492159
+        },
+        {
+          "timestampMillis": 1741145676717
+        },
+        {
+          "timestampMillis": 1741145733668
+        }
+      ]
+    },
+    {
+      "path": "00 MOCs/MOC Javascript.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1741146015076
+        },
+        {
+          "timestampMillis": 1741280016424
+        }
+      ]
+    },
+    {
+      "path": "04 JavaScript/Async & Await.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1741146059519
+        },
+        {
+          "timestampMillis": 1741187587685
+        },
+        {
+          "timestampMillis": 1741187703532
+        },
+        {
+          "timestampMillis": 1741187778817
+        },
+        {
+          "timestampMillis": 1741189136303
+        },
+        {
+          "timestampMillis": 1741272688058
+        },
+        {
+          "timestampMillis": 1741272770598
+        }
+      ]
+    },
+    {
+      "path": "11 Projects/Proyecto Negrito.md",
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 17,
+      "openLogs": [
+        {
+          "timestampMillis": 1741185396278
+        },
+        {
+          "timestampMillis": 1741187805717
+        },
+        {
+          "timestampMillis": 1741188253536
+        },
+        {
+          "timestampMillis": 1741188891893
+        },
+        {
+          "timestampMillis": 1741188895053
+        },
+        {
+          "timestampMillis": 1741189135496
+        },
+        {
+          "timestampMillis": 1741189141914
+        },
+        {
+          "timestampMillis": 1741218240920
+        },
+        {
+          "timestampMillis": 1741238887597
+        },
+        {
+          "timestampMillis": 1741272631426
+        },
+        {
+          "timestampMillis": 1741381136432
+        },
+        {
+          "timestampMillis": 1741381197540
+        },
+        {
+          "timestampMillis": 1741381214506
+        },
+        {
+          "timestampMillis": 1741381220296
+        },
+        {
+          "timestampMillis": 1741448977869
+        },
+        {
+          "timestampMillis": 1741631385802
+        },
+        {
+          "timestampMillis": 1741631388324
+        }
+      ]
+    },
+    {
+      "path": "_templates/5_BuJo - Monthly Log.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1741187732194
+        },
+        {
+          "timestampMillis": 1741187746796
+        }
+      ]
+    },
+    {
+      "path": "Excalidraw/Project Negrito.md",
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1741188806251
+        },
+        {
+          "timestampMillis": 1741272625640
+        },
+        {
+          "timestampMillis": 1741631406228
+        },
+        {
+          "timestampMillis": 1741631453197
+        },
+        {
+          "timestampMillis": 1742008707949
+        },
+        {
+          "timestampMillis": 1742008708319
+        }
+      ]
+    },
+    {
+      "path": "Catalogo GraniArenas 2025.pdf",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1741188888142
+        },
+        {
+          "timestampMillis": 1741188888300
+        },
+        {
+          "timestampMillis": 1741189137074
+        },
+        {
+          "timestampMillis": 1741631413733
+        }
+      ]
+    },
+    {
+      "path": "Untitled.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1741276656641
+        },
+        {
+          "timestampMillis": 1741543667992
+        },
+        {
+          "timestampMillis": 1741631379693
+        }
+      ]
+    },
+    {
+      "path": "DOM Introduction.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1741280035784
+        },
+        {
+          "timestampMillis": 1741280074971
+        },
+        {
+          "timestampMillis": 1741280501147
+        },
+        {
+          "timestampMillis": 1741322016918
+        }
+      ]
+    },
+    {
+      "path": "Link to related note.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1741280497992
+        }
+      ]
+    },
+    {
+      "path": "Learn Ansible.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1741292543261
+        },
+        {
+          "timestampMillis": 1741293133453
+        },
+        {
+          "timestampMillis": 1741293135636
+        },
+        {
+          "timestampMillis": 1741293138134
+        }
+      ]
+    },
+    {
+      "path": "Clase Piano 9 Marzo.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1741543441856
+        },
+        {
+          "timestampMillis": 1741543670567
+        },
+        {
+          "timestampMillis": 1741619077043
+        },
+        {
+          "timestampMillis": 1741631377395
+        }
+      ]
+    },
+    {
+      "path": "2025-03-10.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1741618862787
+        }
+      ]
+    },
+    {
+      "path": "DOM Introduction.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1741631373439
+        }
+      ]
+    }
+  ]
+}

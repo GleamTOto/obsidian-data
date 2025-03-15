@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "fedd319d4348eec0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d696be00eff4a940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a59cad11fa988d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "191d04c9facf9d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "6527f8b5a53e66c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7663b940a1b71616",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0c227878c6bd6793",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "505419a7b18b0ceb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "9625a183b4031bab",
+    "type": "split",
+    "children": [
+      {
+        "id": "df1edefc2f74183e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bf4df396bb6417f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learn Ansible.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Learn Ansible"
+            }
+          },
+          {
+            "id": "fdbdc288b15a592d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8aa97782007cf043",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "58fa8efd9fbbd3a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learn Ansible.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Learn Ansible"
+            }
+          },
+          {
+            "id": "f72bc8779b85557b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "6d379fe8bf18891f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "5b5677a82d7a4a84",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "484535d4379f081e",
+            "type": "leaf",
+            "state": {
+              "type": "view-count",
+              "state": {},
+              "icon": "eye",
+              "title": "View count"
+            }
+          },
+          {
+            "id": "bea0a05f4c23389f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4162de04ccc6302b",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f85c677f945c8529",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 455.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "callout-manager:Insert Callout": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "f72bc8779b85557b",
+  "lastOpenFiles": [
+    "Excalidraw/Project Negrito.md",
+    "2025-03-14.md",
+    "Catalogo GraniArenas 2025.pdf",
+    "11 Projects/Proyecto Negrito.md",
+    "Untitled.md",
+    "Clase Piano 9 Marzo.md",
+    "Daily Note.md",
+    "DOM Introduction.png",
+    "2025-03-10.md",
+    "2025-03-06.md",
+    "2025-03-07.md",
+    "2025-03-08.md",
+    "DOM Introduction.md",
+    "Learn Ansible.md",
+    "Link to related note.md",
+    "00 MOCs/MOC Javascript.md",
+    "_templates/3_Note Template.md",
+    "04 JavaScript/Async & Await.md",
+    "03 CSS/Flexbox and Grid.md",
+    "__templates/Daily Note.md",
+    "2025-03-05.md",
+    "Excalidraw/Drawing 2025-03-04 14.03.09.excalidraw.md",
+    "_templates/4_Person Template.md",
+    "_templates/5_BuJo - Monthly Log.md",
+    "Media Queries.md",
+    "00 MOCs/MOC CSS.md",
+    "00 MOCs/MOC Principal del Roadmap Frontend.md",
+    "03 CSS/Flexbox and grid.md",
+    "__templates",
+    "Excalidraw",
+    "_templates",
+    "13 Daily Learning",
+    "12 External Resourses",
+    "11 Projects",
+    "10 Advanced",
+    "09 PWA mobile",
+    "08 Web Performance",
+    "Untitled.canvas"
+  ]
+}
